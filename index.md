@@ -15,4 +15,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 ``` javascript
-var greeting = "Hello, world!";
+var myVar = "Hello, world!";
